@@ -1,8 +1,8 @@
 {
   "id": "/",
-  "name": "Treino",
-  "short_name": "Treino",
-  "description": "Registro de treino de musculação.",
+  "name": "Saúde: treino, água e creatina",
+  "short_name": "Saúde",
+  "description": "Registro de treino de calistenia, água e creatina.",
   "lang": "pt-BR",
   "start_url": "./",
   "scope": "./",
